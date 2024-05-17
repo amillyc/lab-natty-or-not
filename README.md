@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Integrando o ensino de informática e IA em sala de aula para crianças
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Incentivar e explorar a criatividade dos professores de educação infantil (7 a 10) na incorporação de conteúdos relacionados à informática e às inteligências artificiais, incentivando, consequentemente, o contato dos alunos com o mundo dogotal. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT, Gamma.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Basicamente pedi ajuda ao nosso amigo GPT pra montar um conteúdo que fosse atraente e conversasse com os professores dessa faixa etária em específico, e então, de acordo com os passos, solicitei a criaçãod e uma apresentação no Gamma. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Acredito que os resultados foram satisfatórios, eatingem o público. Não gostei muito das imagens geradas, pra ser sincera, mas também consigo ver o "tom" das ilustrações em todas elas, então minha "crítica" é apenas na parte aesthetic do gamma.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
